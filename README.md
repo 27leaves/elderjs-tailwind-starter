@@ -4,7 +4,7 @@
 
 This is a project template for [Elder.js](https://elderguide.com/tech/elderjs/) apps. The template lives at https://github.com/27leaves/elderjs-tailwind-starter and is based on the official template https://github.com/elderjs/template.
 
-Here is a demo of the template: [https://elderjs.pages.dev/](https://elderjs.pages.dev/)
+Here is a demo of the template: [https://elderjs-tailwind-starter.herrnegger.online](https://elderjs-tailwind-starter.herrnegger.online)
 
 ## Get started
 
@@ -31,7 +31,7 @@ Navigate to [localhost:3000](http://localhost:3000). You should see your app run
 
 This spawns a development server, so simply edit a file in `src`, save it, and reload the page to see your changes.
 
-You can also see a live demo of this template: [https://elderjs-tailwind-starter.herrnegger.online/](https://elderjs-tailwind-starter.herrnegger.online)
+You can also see a live demo of this template: [https://elderjs-tailwind-starter.herrnegger.online](https://elderjs-tailwind-starter.herrnegger.online)
 
 #### What to Expect
 
