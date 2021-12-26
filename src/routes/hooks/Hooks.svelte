@@ -7,10 +7,6 @@
 </script>
 
 <style>
-  a {
-    margin-bottom: 1rem;
-    display: inline-block;
-  }
 </style>
 
 <svelte:head>

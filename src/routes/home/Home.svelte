@@ -45,8 +45,9 @@
     </p>
 
     <p>
-      Enjoy playing around with Elder.js and, if you hit a snag with the template, open a <a
-      href="https://github.com/Elderjs/template/issues">GitHub issue.</a>
+      Enjoy playing around with Elder.js and, if you encounter a problem, open a GitHub issue on <a
+      href="https://github.com/Elderjs/template/issues">Elder.js</a> (or <a
+      href="https://github.com/27leaves/elderjs-tailwind-starter/issues">elderjs-tailwind-starter</a> if you think it's an issue with the template).
     </p>
   </div>
 </div>
@@ -160,7 +161,7 @@
   alt="Elder.js hook Lifecycle v1.3"
   class="max-w-full lg:max-w-md" />
 </div>
-<ul class="list-disc">
+<ul>
   {#each hooks as hook, i}
     <li class="overview">
       {#if hook.link && hook.link.length > 0}<a href={hook.link}>{hook.hook}</a>{:else}{hook.hook}{/if}

@@ -4,15 +4,6 @@
   export let hookEntityDefinitions;
 </script>
 
-<style global lang="postcss">
-  .use ul {
-    @apply list-disc;
-  }
-  .use li {
-    @apply ml-6;
-  }
-</style>
-
 <div class="hook">
   {#if i || i === 0}<span class="hook-number">{i + 1}.</span>{/if}
 
