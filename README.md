@@ -1,8 +1,8 @@
 # Elder.js Template Project
 
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Node&query=engines.node&url=https%3A%2F%2Fraw.githubusercontent.com%2Felderjs%2Ftemplate%2Fmaster%2Fpackage.json" alt="node version" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Node&query=engines.node&url=https%3A%2F%2Fraw.githubusercontent.com%2F27leaves%2Felderjs-tailwind-starter%2Fmaster%2Fpackage.json" alt="node version" />
 
-This is a project template for [Elder.js](https://elderguide.com/tech/elderjs/) apps. The template lives at https://github.com/elderjs/template and the Elder.js source is here: https://github.com/elderjs/elderjs
+This is a project template for [Elder.js](https://elderguide.com/tech/elderjs/) apps. The template lives at https://github.com/27leaves/elderjs-tailwind-starter and is based on the official template https://github.com/elderjs/template.
 
 Here is a demo of the template: [https://elderjs.pages.dev/](https://elderjs.pages.dev/)
 
@@ -11,7 +11,7 @@ Here is a demo of the template: [https://elderjs.pages.dev/](https://elderjs.pag
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit Elderjs/template elderjs-app
+npx degit 27leaves/elderjs-tailwind-starter elderjs-app
 cd elderjs-app
 ```
 
@@ -31,7 +31,7 @@ Navigate to [localhost:3000](http://localhost:3000). You should see your app run
 
 This spawns a development server, so simply edit a file in `src`, save it, and reload the page to see your changes.
 
-You can also see a live demo of this template: [https://elderjs.pages.dev/](https://elderjs.pages.dev/)
+You can also see a live demo of this template: [https://elderjs-tailwind-starter.herrnegger.online/](https://elderjs-tailwind-starter.herrnegger.online)
 
 #### What to Expect
 
